@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE01ISSM-MFD37-01-OPTAAD000-telemetered-optaa_dj_dcl_metadata
-last_request: '2022-01-21T18:32:52.554426Z'
+last_request: '2022-02-07T17:47:56.777557Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSM-MFD37-01-OPTAAD000-telemetered-optaa_dj_dcl_metadata/main/history/response.json
 status: discontinued
